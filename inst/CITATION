@@ -1,0 +1,10 @@
+citHeader("To cite whitestrap in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "Bootstrapped White's test under the methodology of Jeong, J., Lee, K. (1999)",
+  author   = "Jorge López Pérez",
+  year     = 2020,
+  url      = "https://github.com/jlopezper/whitestrap",
+  textVersion = "Lopez, J. (2020), White's test and Bootstrapped White's test under the methodology of Jeong, J., Lee, K. (1999)"
+)

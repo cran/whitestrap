@@ -1,0 +1,17 @@
+e065db453bc9ff6288cbd4729e6fcc4e *DESCRIPTION
+a2a696af30830c316abffd8f4da41f6f *LICENSE
+cb0530658f675f9e6b1958c799078ac5 *NAMESPACE
+8b15bbc0c4e59329aeb94dabe5cf829c *NEWS.md
+1c6ad433c8d45f7406cffc1755b697ed *R/sysdata.rda
+2fc6c01ae8aaa909f1ff148d4fbdee5d *R/white_test.R
+52f1634cfb5999b355844f627a5bd2cd *R/zzz.R
+19ecf088a185068f505a20ce3c5f21f2 *README.md
+cc9fd661edc56fdb060888989a8d0677 *inst/CITATION
+c66fb84c31aa1ab02c6cc25057c97164 *man/figures/README-unnamed-chunk-5-1.png
+7a80e390ea2eb6ba92afa54e73acb223 *man/figures/README-unnamed-chunk-6-1.png
+69d32a16ee9929380050705fee9f269b *man/figures/README-unnamed-chunk-7-1.png
+775a9691e866a5e3b1bd5b43def03f91 *man/figures/README-unnamed-chunk-8-1.png
+66bf391a05dfbb91e583979ae825b8a4 *man/white_test.Rd
+af872eb74889b8ca7d332e5088f4fb08 *man/white_test_boot.Rd
+31a6343108407115b12caf7e1cbf4ea5 *tests/testthat.R
+047c02edfc6dac034f6a52bed1d96289 *tests/testthat/test-white_test.R
